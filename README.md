@@ -25,10 +25,8 @@ I have been coding for 6 years and am currently developing a novel generative mo
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/YSChen0609"><img src="https://github-readme-stats.vercel.app/api?username=YSChen0609&show_icons=true&hide=stars,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="YSChen0609's GitHub stats" /></a>
-
-<a href="http://www.github.com/YSChen0609"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YSChen0609&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/YSChen0609" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSChen0609&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/YSChen0609/PDB_Protein_Analysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YSChen0609&repo=PDB_Protein_Analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/YSChen0609/Fashion-MNIST-Modeling-Comparision" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YSChen0609&repo=Fashion-MNIST-Modeling-Comparision&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
