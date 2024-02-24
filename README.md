@@ -8,7 +8,7 @@ I have been coding for 6 years and am currently developing a novel generative mo
 
 * 🌍  I'm based in College Station, TX
 * ✉️  You can contact me at [chenyus0609@tamu.edu](mailto:chenyus0609@tamu.edu)
-* 🧠  I'm learning Scientific Machine Learning
+* 🧠  I'm learning Scientific Machine Learning and Bioinformatics
 * 🤝  I'm open to collaborating on research / application projects
 
 ### Skills
