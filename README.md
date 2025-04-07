@@ -7,7 +7,7 @@ Master in Data Science Student
 I have been coding for 6 years and am currently developing a novel generative model for ECG signal synthesis!
 
 * 🌍  I'm based in College Station, TX
-* ✉️  You can contact me at [chenyus0609@tamu.edu](mailto:yushengchen.career@gmail.com)
+* ✉️  You can contact me at [yushengchen.career@gmail.com](mailto:yushengchen.career@gmail.com)
 * 🧠  I'm learning Scientific Machine Learning and Bioinformatics
 * 🤝  I'm open to collaborating on research / application projects
 
